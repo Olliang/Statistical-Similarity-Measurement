@@ -7,7 +7,7 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 
 
-## Main files:
+## Main Files:
 
 `Statistical Similarity Methodology.md` - Main file that documenting the methodology and evaluation results
 
@@ -15,6 +15,10 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 `table-wise evaluation.ipynb`- Main notebook script that implement the table-wise evaluation
 
+
+## Datasets Overview
+
+[datasets](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/DATASET.PNG)
 
 
 ## Contact:
