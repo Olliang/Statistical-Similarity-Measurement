@@ -18,7 +18,7 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 ## Datasets Overview
 
-[datasets](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/DATASET.PNG)
+![datasets](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/DATASET.PNG)
 
 
 ## Contact:
