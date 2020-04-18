@@ -6,7 +6,6 @@ To calculate the similarity between two tables, our methodology transfers the pr
 
 
 
-[TOC]
 
 
 
