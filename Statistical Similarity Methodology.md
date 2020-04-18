@@ -5,7 +5,6 @@ To calculate the similarity between two tables, our methodology transfers the pr
 ![diagram](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/diagram.png)
 
 
-[toc]
 
 
 
