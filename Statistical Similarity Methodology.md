@@ -9,15 +9,7 @@ To calculate the similarity between two tables, our methodology transfers the pr
 
 
 
-## Overview of Datasets and results
-
-### Original datasets:
-
-![DATASET](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/DATASET.PNG)
-
-
-
-### Similarity Results with GAN Algorithms Overview:
+## Similarity Results with GAN Algorithms Overview:
 
 ![similarity results](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/similarity%20results.PNG)
 
