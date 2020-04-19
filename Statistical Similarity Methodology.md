@@ -9,12 +9,6 @@ To calculate the similarity between two tables, our methodology transfers the pr
 
 
 
-## Overview of Similarity Results with GAN Algorithms:
-
-![similarity results](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/table-similarity%20results.PNG)
-
-
-
 
 
 ## 1. Column-wise Similarity Evaluation
