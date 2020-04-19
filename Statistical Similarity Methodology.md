@@ -85,7 +85,7 @@ Cosine similarity is a measure of similarity between two non-zero vectors of an 
 
 For continuous columns:
 
-**Step 1: **Transform numerical data into values of bins
+**Step 1:** Transform numerical data into values of bins
 
 **Step 2:** Convert original data to probability values
 
