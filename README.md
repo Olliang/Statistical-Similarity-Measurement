@@ -21,6 +21,14 @@ Note: This is an on-going project, final methodology document is to be updated.
 ![datasets](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/DATASET.PNG)
 
 
+## Reference:
+
+https://blog.keras.io/building-autoencoders-in-keras.html
+
+https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f
+
+
+
 ## Contact:
 
 If there is anything to be corrected or you have any thoughts to share with me on this topic, please feel free to reach out! It's allways pleasure to learn more.
