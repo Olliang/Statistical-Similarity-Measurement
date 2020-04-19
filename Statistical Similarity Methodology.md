@@ -18,7 +18,7 @@ To calculate the similarity between two tables, our methodology transfers the pr
 
 ### Similarity Results with GAN Algorithms Overview:
 
-![similarity results](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/similarity results.PNG)
+![similarity results](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/kl%20-%20conti.PNG)
 
 
 
@@ -40,13 +40,13 @@ For the probability distribution of continuous variable:
 
 
 
-![kl - conti](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/kl - conti.PNG)
+![kl - conti](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/kl%20-%20conti.PNG)
 
 For the probability distribution of discrete variable:
 
 (A **discrete random variable** is defined as one which may take on only a countable number of distinct values and thus can be quantified.)
 
-![kl - discrete](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/kl - discrete.PNG)
+![kl - discrete](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/kl%20-%20discrete.PNG)
 
 
 
