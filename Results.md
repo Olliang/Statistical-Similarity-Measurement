@@ -86,7 +86,7 @@ Regardless whether the column is discrete or continuous, every column generated 
 
 ### Similarity Score Overview
 
-![table-similarity results](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/table-similarity results.PNG)
+![table-similarity results](https://github.com/Olliang/Statistical-Similarity-Measurement/blob/master/images/table-similarity%20results.PNG)
 
 
 
