@@ -17,6 +17,9 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 `table-wise evaluation.ipynb`- Main notebook script that implement the table-wise evaluation
 
+`Clustering_LOS.ipynb`- Main notebook script that implement clustering metric for 'Length of Stay' use case
+
+`Clustering_Mortality.ipynb`- Main notebook script that implement clustering metric for 'Mortality' use case
 
 ## Datasets Overview
 
