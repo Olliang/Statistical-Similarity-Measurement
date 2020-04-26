@@ -4,7 +4,13 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 ## Introduction:
 
+This blog is triggered by a research project that I have been working on this spring for a healthcare company. Because of the industry itself, data privacy policy has hindered data from being shared and used efficiently for further analytics and innovation. The business goal of the project is to solve the conflict between data privacy and data sharing. In other words, *how can we generate synthetic data that is as similar and useful as original data for the intended use?* 
 
+Apart from developing powerful synthetic data generating techniques using cutting-edge deep learning algorithms such as GAN (Generative adversarial network), one of important topics in this project is **designing  similarity evaluation metrics to evaluate whether the synthetic data generated is statistical and structurally similar as the original data**.
+
+Measurement of similarity is a widely desired in real business, especially on tabular data. For example, how do we evaluate the similarity between the forecasting sales and  the actual sales in order to improve our forecasting model? Can we come up with a score that quantify the level of similarity for management to make better decisions? What if we also need to capture the similarity on the relationships across multiple variables?
+
+If you are facing similar problems or are interested in similarity measurement on tabular data, I hope these metrics I tailored for my project can benefit you to some degree.
 
 
 ## Main Files:
