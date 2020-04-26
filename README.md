@@ -4,7 +4,7 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 ## Introduction:
 
-This blog is triggered by a research project that I have been working on this spring for a healthcare company. Because of the industry itself, data privacy policy has hindered data from being shared and used efficiently for further analytics and innovation. The business goal of the project is to solve the conflict between data privacy and data sharing. In other words, *how can we generate synthetic data that is as similar and useful as original data for the intended use?* 
+This github is triggered by a research project that I have been working on this spring for a healthcare company. Because of the industry itself, data privacy policy has hindered data from being shared and used efficiently for further analytics and innovation. The business goal of the project is to solve the conflict between data privacy and data sharing. In other words, *how can we generate synthetic data that is as similar and useful as original data for the intended use?* 
 
 Apart from developing powerful synthetic data generating techniques using cutting-edge deep learning algorithms such as GAN (Generative adversarial network), one of important topics in this project is **designing  similarity evaluation metrics to evaluate whether the synthetic data generated is statistical and structurally similar as the original data**.
 
