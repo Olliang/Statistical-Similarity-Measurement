@@ -9,9 +9,7 @@ Note: This is an on-going project, final methodology document is to be updated.
 
 ## Main Files:
 
-`Statistical Similarity Methodology.md` - Main file that documenting the methodology
-
-`Results.md` - Main file that documenting the evaluation results on 3 datasets
+`Statistical Similarity Methodology.md` - Main file that documenting the methodology and result
 
 `column-wise evaluation.ipynb`- Main notebook script that implement the column-wise evaluation
 
