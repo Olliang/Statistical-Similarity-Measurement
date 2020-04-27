@@ -10,7 +10,7 @@ Apart from developing powerful synthetic data generating techniques using cuttin
 
 Measurement of similarity is a widely desired in real business, especially on tabular data. For example, how do we evaluate the similarity between the forecasting sales and  the actual sales in order to improve our forecasting model? Can we come up with a score that quantify the level of similarity for management to make better decisions? What if we also need to capture the similarity on the relationships across multiple variables?
 
-If you are facing similar problems or are interested in similarity measurement on tabular data, I hope these metrics I tailored for my project can benefit you to some degree.
+If you are facing similar problems or are interested in similarity measurement on tabular data (even though the concept of yours might be slightly different from measuring the similarity of synthetic data), I hope these metrics I tailored for my project can benefit you to some degree.
 
 
 ## Main Files:
