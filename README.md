@@ -40,6 +40,6 @@ https://towardsdatascience.com/deep-inside-autoencoders-7e41f319999f
 
 ## Contact:
 
-If there is anything to be corrected or you have any thoughts to share with me on this topic, please feel free to reach out! It's allways pleasure to learn more.
+If there is anything to be corrected or you have any thoughts to share with me on this topic, please feel free to reach out! It's always pleasure to learn more.
 >Email: olivia.liang032@gmail.com
 
