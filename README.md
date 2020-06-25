@@ -1,6 +1,6 @@
 # Statistical Similarity Evaluation Metrics for Tabular data
 
-Note: This is an on-going project, final methodology document is to be updated.
+
 
 ## Introduction:
 
